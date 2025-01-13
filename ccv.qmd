@@ -1,0 +1,69 @@
+---
+title: "Abdullah Kaplan"
+format: html
+css: styles.css
+---
+<hr style="border: 0; border-top: 2px solid #333; margin: 20px 0;">
+
+::: {style="display: flex; height: 130vh;"}
+
+### <img src="https://media.licdn.com/dms/image/v2/D4D03AQHA7CS3FJzDtw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1697579504806?e=2147483647&v=beta&t=pjxB_LT2t4DOSFA_76bCdMaatJlRppHyDqzAOIuwIRE" alt="Profile Picture" style="border-radius: 50%; width: 100px; height: 100px; margin: 20px auto 2px 70px;"> {style="width: 30%; padding-right: 10px; border-right: 2px solid #ddd; background-color: #003366; color: white; box-sizing: border-box; text-align: center; flex-grow: 1;"}
+![Icon](https://icons.iconarchive.com/icons/froyoshark/enkel/256/Contacts-icon.png){style="width: 20px; height: 20px; margin-right: 10px; vertical-align: middle;"} **Contacs**
+
+**Middle East Technical University (METU)**  
+Ankara, Türkiye  
+- **Phone**: +90 543 892 62 89  
+- **Email**: abdullahkaplan09@gmail.com  
+- **Adress**: METU, Ankara, Türkiye  
+<div style="text-align: center; margin-top: auto; padding: 20px;">
+  <a href="https://www.linkedin.com/in/abdullah-kaplan-5b71b8297" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 30px; height: 30px;">
+  </a>
+  </div>
+
+### Economics Student {style="width: 70%; padding-left: 10px; box-sizing: border-box;"}
+#### Brief {style="padding: 10px; background-color: #FFFDD0; box-sizing: border-box;"}
+ My interest in economics started in high school and I started researching this 
+department and METU. The theoretical education I received at school enabled me to 
+focus more and more on data analysis. I would like to develop myself especially in this 
+field, but I also want to experience the different areas my department offers. I want to 
+reinforce the theoretical education I gained at school in the business environment.
+
+<hr style="border: 0; border-top: 2px solid #333; margin: 20px 0;">
+
+#### ![Icon](https://i.pinimg.com/736x/79/5c/af/795caf79bd23835f75e46c3efaf1656f.jpg){style="width: 40px; height: 40px; margin-right: 10px; vertical-align: middle;"} EDUCATION
+- **Middle East Technical University, Ankara**  
+  Ekonomi (2019 - ...)  
+  - CGPA: 2.99
+  
+<hr style="border: 0; border-top: 2px solid #333; margin: 20px 0;">
+
+#### ![Icon](https://uxwing.com/wp-content/themes/uxwing/download/business-professional-services/work-experience-icon.png){style="width: 20px; height: 20px; margin-right: 10px; vertical-align: middle;"} EXPERIENCE
+- **Online Seller**: Sinemisxxl, Trendyol (2018 - ...)  
+- **Intern**: Turkish Airlines ( February 2024 )
+
+<hr style="border: 0; border-top: 2px solid #333; margin: 20px 0;">
+
+#### ![Icon](https://cdn-icons-png.flaticon.com/512/2991/2991148.png){style="width: 20px; height: 20px; margin-right: 10px; vertical-align: middle;"} Software Skills
+Excel ![Icon](https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg){style="width: 20px; height: 20px; margin-right: 10px; vertical-align: middle;"}
+<div style="width: 100%; background-color: #ddd; height: 20px; border-radius: 5px; overflow: hidden;">
+  <div style="width: 90%; background-color: #007BFF; height: 100%;"></div>
+</div>
+
+ EViews ![Icon](https://scontent.fyei6-3.fna.fbcdn.net/v/t1.6435-9/56742464_2389980604345480_1976646814085939200_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=Bwu774NzWcAQ7kNvgFNKqZN&_nc_zt=23&_nc_ht=scontent.fyei6-3.fna&_nc_gid=AgmTV7aHYOkBxSzvwmb1DRv&oh=00_AYCENcahub9ziemeet0dZaRBtkLNhaI5vtZu4HoPHqvFSA&oe=67AC5FE4){style="width: 20px; height: 20px; margin-right: 10px; vertical-align: middle;"}
+<div style="width: 100%; background-color: #ddd; height: 20px; border-radius: 5px; overflow: hidden;">
+  <div style="width: 70%; background-color: #007BFF; height: 100%;"></div>
+</div>
+
+ SQL ![Icon](https://banner2.cleanpng.com/20180611/pur/aa8kqzgh0.webp){style="width: 20px; height: 20px; margin-right: 10px; vertical-align: middle;"}
+<div style="width: 100%; background-color: #ddd; height: 20px; border-radius: 5px; overflow: hidden;">
+  <div style="width: 50%; background-color: #007BFF; height: 100%;"></div>
+</div>
+:::
+
+---
+
+```{r}
+#| echo: false
+
+```
